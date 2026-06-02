@@ -5,7 +5,6 @@ author: Summer of Bitcoin
 date: "2025-05-18 08:00:00 +0000"
 categories:
   - "News"
-featured: true
 image: "./assets/images/blog_content/image-4.png"
 ---
 
